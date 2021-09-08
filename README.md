@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fati-Hei
+- 👋 Hi, I’m @Fa-Hei
 .
 
 <!---
